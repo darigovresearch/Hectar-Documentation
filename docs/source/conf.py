@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Hectar'
-copyright = '2021, Hectar Ltd'
+copyright = '2021 CC BY 4.0, Hectar Ltd'
 author = 'Hectar Ltd'
 
 # The full version, including alpha/beta/rc tags

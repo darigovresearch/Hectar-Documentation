@@ -3,18 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Hectar's documentation!
+Build your own Hectar Farm
 ==================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   growbars
+   light_shelves
+   nutrient_tank
+   shelving_freestanding
+   wiring
+   plumbing
